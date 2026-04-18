@@ -17,7 +17,6 @@ created: 2026-04-18
 ### 开发工具
 
 - [[summaries/programming/Spec Kit - AI驱动的规格驱动开发工具包]] - AI驱动的规格驱动开发工具包
-- [[summaries/programming/Unity UI 开发提效新方案：蓝湖设计稿一键生成 Prefab 的完整工作流实战]] - VectoUI 一键生成 Unity Prefab 工作流
 
 ---
 
