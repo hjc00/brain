@@ -17,6 +17,7 @@ created: 2026-04-18
 ### 开发工具
 
 - [[summaries/programming/Spec Kit - AI驱动的规格驱动开发工具包]] - AI驱动的规格驱动开发工具包
+- [[summaries/programming/OpenSpec OPSX 工作流 - AI编程助手的规格驱动开发]] - AI编程助手的规格驱动开发工作流
 
 ---
 
