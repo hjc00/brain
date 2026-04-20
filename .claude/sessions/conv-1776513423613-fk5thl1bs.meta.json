@@ -1,0 +1,19 @@
+{
+  "id": "conv-1776513423613-fk5thl1bs",
+  "title": "Create git repository and push to remote",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776513423614,
+  "updatedAt": 1776528181398,
+  "lastResponseAt": 1776514501628,
+  "sessionId": "72875043-ffc0-4191-9880-4dba98bc0971",
+  "sdkSessionId": "72875043-ffc0-4191-9880-4dba98bc0971",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 27076,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 27076,
+    "percentage": 14
+  }
+}

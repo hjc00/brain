@@ -1,0 +1,20 @@
+{
+  "id": "conv-1776604449157-pordwkfvr",
+  "title": "Compare open spec proposal and explore",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776604449157,
+  "updatedAt": 1776604569761,
+  "lastResponseAt": 1776604569761,
+  "sessionId": "7512f981-0430-4b57-a358-c9d28a628438",
+  "sdkSessionId": "7512f981-0430-4b57-a358-c9d28a628438",
+  "currentNote": "summaries/programming/OpenSpec - AI编程助手的规格驱动开发框架.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 126,
+    "cacheCreationInputTokens": 3646,
+    "cacheReadInputTokens": 19219,
+    "contextWindow": 200000,
+    "contextTokens": 22991,
+    "percentage": 11
+  }
+}

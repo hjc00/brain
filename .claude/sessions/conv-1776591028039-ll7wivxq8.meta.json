@@ -1,0 +1,20 @@
+{
+  "id": "conv-1776591028039-ll7wivxq8",
+  "title": "Summarize open spec workflow",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776591028039,
+  "updatedAt": 1776594251108,
+  "lastResponseAt": 1776593891545,
+  "sessionId": "56c00137-b7b4-41b9-8a57-421b3c2a37f6",
+  "sdkSessionId": "56c00137-b7b4-41b9-8a57-421b3c2a37f6",
+  "currentNote": "summaries/programming/OpenSpec - AI编程助手的规格驱动开发框架.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 63,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55698,
+    "contextWindow": 200000,
+    "contextTokens": 55761,
+    "percentage": 28
+  }
+}

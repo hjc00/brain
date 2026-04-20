@@ -1,0 +1,20 @@
+{
+  "id": "conv-1776596073845-032olbagz",
+  "title": "Translate CLAUDE.md",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776596073846,
+  "updatedAt": 1776596646539,
+  "lastResponseAt": 1776596622242,
+  "sessionId": "70a71f1c-1d70-4682-a7c8-00ef61ab93e5",
+  "sdkSessionId": "70a71f1c-1d70-4682-a7c8-00ef61ab93e5",
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6024,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 6024,
+    "percentage": 3
+  }
+}

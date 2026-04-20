@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -d \"./D:workspacebrainengineering-wikiarchitecture\")",
+      "Bash(rm -d \"./D:workspacebrainengineering-wikirules\")",
+      "Bash(rm -d \"./D:workspacebrainengineering-wikitemplates\")"
+    ]
+  }
+}

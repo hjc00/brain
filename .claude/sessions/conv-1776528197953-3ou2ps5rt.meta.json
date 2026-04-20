@@ -1,0 +1,19 @@
+{
+  "id": "conv-1776528197953-3ou2ps5rt",
+  "title": "Locate GitHub token storage location",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776528197953,
+  "updatedAt": 1776529492173,
+  "lastResponseAt": 1776529478795,
+  "sessionId": "aa8ab1dd-f435-4521-83df-f1718f6c3466",
+  "sdkSessionId": "aa8ab1dd-f435-4521-83df-f1718f6c3466",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 7053,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19219,
+    "contextWindow": 200000,
+    "contextTokens": 26272,
+    "percentage": 13
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1776511782214-5mz932lsf",
+  "title": "Initialize project",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776511782214,
+  "updatedAt": 1776512617171,
+  "lastResponseAt": 1776511806270,
+  "sessionId": "61cc1577-c999-4522-84ee-3298a9b45805",
+  "sdkSessionId": "61cc1577-c999-4522-84ee-3298a9b45805",
+  "currentNote": "index.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1916,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19219,
+    "contextWindow": 200000,
+    "contextTokens": 21135,
+    "percentage": 11
+  }
+}

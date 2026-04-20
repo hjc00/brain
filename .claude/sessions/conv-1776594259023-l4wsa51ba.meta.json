@@ -1,0 +1,19 @@
+{
+  "id": "conv-1776594259023-l4wsa51ba",
+  "title": "你是谁",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776594259023,
+  "updatedAt": 1776596062636,
+  "lastResponseAt": 1776595097560,
+  "sessionId": "d75657ee-70bf-4baa-9307-a1966965b9ea",
+  "sdkSessionId": "d75657ee-70bf-4baa-9307-a1966965b9ea",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 126,
+    "cacheCreationInputTokens": 216,
+    "cacheReadInputTokens": 21125,
+    "contextWindow": 200000,
+    "contextTokens": 21467,
+    "percentage": 11
+  }
+}

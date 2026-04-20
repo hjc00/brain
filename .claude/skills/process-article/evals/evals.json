@@ -1,0 +1,23 @@
+{
+  "skill_name": "process-article",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "处理 raw/articles/Spec Kit - AI-Powered Specification-Driven Development Toolkit.md 这篇文章，创建总结并更新索引。",
+      "expected_output": "创建 summaries/programming/ 下的总结文档，包含原始文档链接、结构化内容（表格/列表）、YAML frontmatter，并在 index.md 中添加索引链接。",
+      "files": ["raw/articles/Spec Kit - AI-Powered Specification-Driven Development Toolkit.md"]
+    },
+    {
+      "id": 2,
+      "prompt": "我刚在 raw/notes/ 目录下添加了一篇关于 TypeScript 泛型的笔记，请帮我创建总结文档并更新索引。",
+      "expected_output": "如果文件存在，创建总结文档；如果不存在，提示用户确认文件路径。",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "把今天读的那篇文章总结一下，放在对应的分类里，然后在 index 里加上链接。",
+      "expected_output": "如果用户没有提供具体文件或 current_note，需要询问用户具体要处理哪篇文章。",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1776596654502-tifoh2c91",
+  "title": "安装Everything文件搜索工具",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776596654502,
+  "updatedAt": 1776604435297,
+  "lastResponseAt": 1776596668573,
+  "sessionId": "2f83706f-c800-484a-a152-52ebd6db813b",
+  "sdkSessionId": "2f83706f-c800-484a-a152-52ebd6db813b",
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 126,
+    "cacheCreationInputTokens": 1493,
+    "cacheReadInputTokens": 19219,
+    "contextWindow": 200000,
+    "contextTokens": 20838,
+    "percentage": 10
+  }
+}

@@ -1,15 +1,8 @@
-# Obsidian
-.obsidian/
-.obsidian.json
 *.icloud
 
 # System
 .DS_Store
 Thumbs.db
-
-# Claudian / Claude Code
-.claude/
-.claudian/
 
 # Editor
 .vscode/
